@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;900&display=swap');
+
+body {
+  font-family: "Playfair Display", regular;
+  font-size: 16px;
+}
+
+.bgc{
+  padding: 20px 0;
+  background-color: #F5F7FA;
+}  
+.paint a{
+  font-weight: 24px;
+  color: #4D6B83;
+  font-weight: 400;
+  text-decoration: none;
+}
+.nav ul li{
+    display: inline-block;
+    padding: 0 40px;
+}
+.nav ul li a{
+  color: #4D6B83;
+  font-size: 24px;
+  font-weight: 700;
+}
+.nav ul li a:last-child{
+  margin-right: 0;
+}
+.clr{
+    color: #4D6B83;
+}
+.b_color a{
+    text-transform: uppercase;
+}
+.h_content{
+  background-image: url(../img/bg.jpg);
+  position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.content{
+    margin-left: 50px;
+    padding: 230px 0;
+}
+.content p{
+  padding: 50px 0;
+}
+.common{
+    margin-left: 50px;
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.common_0{
+    font-size: 36px;
+    color: #4D6B83;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.s_content p{
+  padding: 50px 0;
+}
+.common_1{
+  color: #ffffff;
+}
+.c_btn {
+    margin-left: 150px;
+    padding: 20px 20px;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    width: 0 150px;
+    text-transform: uppercase;
+}
+.common_2{
+    margin-left: 50px;
+    font-size: 30px;
+    color: #4D6B83;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.p_text p{
+  padding: 0 200px;
+}
